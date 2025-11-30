@@ -1,6 +1,7 @@
 name: date_x
-description: A starting point for Dart libraries or applications.
+description: A lightweight Dart library for date manipulation and formatting.
 version: 1.0.0
+license: MIT
 
 environment:
   sdk: ^3.8.1
